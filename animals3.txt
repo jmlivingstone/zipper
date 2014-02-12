@@ -1,0 +1,9 @@
+Date,Species,Count
+2013-08-06,coyote,2
+2013-08-06,raccoon,14
+2013-08-07,bat,7
+2013-08-07,loon,1
+2013-08-07,falcon,1
+2013-08-08,raccoon,9
+2013-08-08,squirrel,107
+2013-08-08,coyote,1

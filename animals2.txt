@@ -1,0 +1,10 @@
+Date,Species,Count
+2013-07-06,fox,1
+2013-07-06,raccoon,14
+2013-07-07,bat,7
+2013-07-07,raccoon,14
+2013-07-07,falcon,1
+2013-07-08,raccoon,9
+2013-07-08,squirrel,4
+2013-07-08,coyote,1
+2013-07-09,Canada goose,1

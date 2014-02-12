@@ -1,0 +1,10 @@
+Date,Species,Count
+2013-05-06,fox,2
+2013-05-06,raccoon,19
+2013-05-06,squirrel,6
+2013-05-07,bat,7
+2013-05-07,raccoon,14
+2013-05-07,falcon,1
+2013-05-08,raccoon,9
+2013-05-08,squirrel,4
+2013-05-08,coyote,1

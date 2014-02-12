@@ -1,0 +1,39 @@
+history
+#will perform the 510th line of history
+!510 
+
+#animals and Animals cannot coexist in the same folder on a mac
+
+#for loop
+for filename in *.txt; do echo $filename; cut -d , -f2 $filename |grep -v Species | sort | uniq -c; done
+
+#create shell scripts with commands you use
+#save in ~/bin - like a toolbox for commonly used commands
+bash oreo.sh
+
+
+#can send commands to another computer with ssh
+grep fox animals.txt | ssh jlivingstone@hpc.on.oicr.ca | uniq -c
+
+# give it a command it it tells you what you are doing
+#explainshell.com
+
+# interesting reading
+# how learning works - book - pure instruction 
+# the smartest kids in the world and how they got there
+
+
+#Python
+# see Untitled0.ipynb file
+
+from matplot import pyplot
+%matplotlib inline
+
+pyplot.imshow(data)
+pyplot.show()
+
+pyplot.plot(data.mean(axis=1))
+pyplot.show()
+
+#brackets - do this first
+(for filename in *.txt; do cat $filename | python joe.py; done) | wc
