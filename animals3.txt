@@ -1,4 +1,5 @@
 Date,Species,Count
+2013-08-05,bird,2
 2013-08-06,coyote,2
 2013-08-06,raccoon,14
 2013-08-07,bat,7
